@@ -2,22 +2,20 @@
 
 This repository is for a personal portfolio website hosted with GitHub Pages.
 
-Recommended GitHub repository name:
+This project is currently set up for the `website.github.io` repository. Its
+GitHub Pages address is:
 
 ```text
-cocoz1yn.github.io
-```
-
-When the site is published, it should appear at:
-
-```text
-https://cocoz1yn.github.io/
+https://cocoz1yn.github.io/website.github.io/
 ```
 
 ## Files
 
-- `index.html`: homepage
+- `index.html`: single-screen homepage
+- `work.html`: completed and ongoing projects
+- `archive.html`: smaller studies, maps, and experiments
+- `about.html`: biography, skills, experience, and creative work
+- `contact.html`: contact links and CV
 - `style.css`: website styling
-- `script.js`: simple JavaScript interactions
+- `script.js`: mobile menu and project filtering
 - `assets/`: images, CV, and other files
-
